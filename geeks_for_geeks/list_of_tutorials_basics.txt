@@ -1,0 +1,7 @@
+Setting up c++
+Writing first c++ program
+void main or main()
+C++ Data Types
+Basic input/output
+Response on exceeding valid range for datatypes
+C++ preprocessors
